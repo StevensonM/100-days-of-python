@@ -1,1 +1,3 @@
-This is an interactive Treasure Island game.
+This is an interactive game where the player tries to find the treasure.
+
+![](treasure_island_gif.gif)
