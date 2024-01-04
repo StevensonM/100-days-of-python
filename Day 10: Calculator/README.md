@@ -1,3 +1,3 @@
 This is a calculator app built with Python.
 
-![calculator_gif.gif]
+![](calculator_gif.gif)
